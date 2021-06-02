@@ -1,1 +1,1 @@
-# LVM-static.github.io
+# Random-Static
